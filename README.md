@@ -1,15 +1,19 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/64711820/196639599-13e4e099-0e23-460f-b150-b5d80156c6ab.png)
 
-- ⚡ Fun fact: Open Source Enthousiast
+<h1 align="center">Hi there 👋. I am Mag :)</h1>
+
+<h3 align="center"> I am currently participating in the Hacktoberfest and Challenging myself for 100 days of contributing to Open Source Projects.</h3>
+<h4 align="center">You can find more about my **#100daysofOpenSource** by clicking  👉🏾👉🏾👉🏾[HERE](https://github.com/LeGrandMAG/my100daysofOpenSource)👈🏾👈🏾👈🏾</h4>
 
 
-[![@Mag's Holopin board](https://holopin.io/api/user/board?user=legrandmag)](https://holopin.io/@legrandmag)
+
 
 <!--
 **LeGrandMAG/LeGrandMAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://dev.to/github/10-standout-github-profile-readmes-h2o
 Here are some ideas to get you started:
 
+[![@Mag's Holopin board](https://holopin.io/api/user/board?user=legrandmag)](https://holopin.io/@legrandmag)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
