@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: Open Source Enthousias
+- ⚡ Fun fact: Open Source Enthousiast
+
+
+[![@Mag's Holopin board](https://holopin.io/api/user/board?user=legrandmag)](https://holopin.io/@legrandmag)
+
 <!--
 **LeGrandMAG/LeGrandMAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://dev.to/github/10-standout-github-profile-readmes-h2o
