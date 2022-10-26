@@ -10,6 +10,11 @@
 
   
   <h2 align="center">Personal Projects</h2>
+  - Meme Generator:
+  A project that allows the user to generate meme quickly. The project is using an API with about 100 different meme images that the user can use. The User will be able to add top and bottom text to the image and save the image or share it on social media.
+  - Tenzi Game
+  - Wiki Media
+  - Price Calculator
   
 --------------------------------
 
