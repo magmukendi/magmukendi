@@ -9,7 +9,7 @@
 
 
   
-  
+  <h2 align="center">Personal Projects</h2>
   
 --------------------------------
 
