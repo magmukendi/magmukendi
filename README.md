@@ -4,7 +4,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![contributor](https://img.shields.io/github/contributors/LeGrandMAG/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/LeGrandMAG/RESUME.svg)
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 
