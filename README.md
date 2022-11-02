@@ -14,6 +14,19 @@
 <h6>You can find more about my <strong>#100daysofOpenSource</strong> by clicking  👉🏾👉🏾👉🏾 <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a> 👈🏾👈🏾👈🏾</h6>
 
 
+  <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
+<div align="center" style="display:flex; flex-direction:row; ">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&count_private=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LeGrandMAG&theme=vision-friendly-dark" />
+  </div>
+    
+      
+</div>
+
+<img height="200" align="center" src="https://activity-graph.herokuapp.com/graph?username=LeGrandMAG&theme=monokai" />  
+
+
 ## Education
 - ### Hankuk University of Foreign Studies (2018 - 2022)
 
@@ -47,6 +60,7 @@
 ### Cross-platform mobile Development
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
 ### Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
