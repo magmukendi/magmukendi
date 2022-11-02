@@ -13,7 +13,7 @@
 <h4> I am currently participating in the Hacktoberfest and Challenging myself for 100 days of contributing to Open Source Projects.</h4>
 <h6>You can find more about my <strong>#100daysofOpenSource</strong> by clicking  👉🏾👉🏾👉🏾 <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a> 👈🏾👈🏾👈🏾</h6>
 
-
+<!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
 <div align="center" style="display:flex; flex-direction:row; ">
   <div>
@@ -25,7 +25,7 @@
 </div>
 
 <img height="200" align="center" src="https://activity-graph.herokuapp.com/graph?username=LeGrandMAG&theme=monokai" />  
-
+-->
 
 ## Education
 - ### Hankuk University of Foreign Studies (2018 - 2022)
