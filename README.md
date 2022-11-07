@@ -10,9 +10,9 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true)
 <h4>Frontend developer based in Seoul, South Korea. 
 <br>
-<h4> I am currently participating in the Hacktoberfest and Challenging myself for 100 days of contributing to Open Source Projects.</h4>
+  <h6> I participated in the <a href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with<strong>open source</strong> by clicking <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">here</a></h6>
   <h6>I finished my <a href="">100 days of code</a></h6>
-<h6>You can find my journey with open source <strong>open source</strong> by clicking <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a></h6>
+
   
   <h6>I am currently taking <a href="https://cs50.harvard.edu/x/2022/">Harvard University's cs50x</a> taught by Professor David J. Malan. You can check my progress  <a href="https://cs50.harvard.edu/x/2022/">here</a> </h6>
 <!--
