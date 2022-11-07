@@ -11,7 +11,9 @@
 <h4>Frontend developer based in Seoul, South Korea. 
 <br>
 <h4> I am currently participating in the Hacktoberfest and Challenging myself for 100 days of contributing to Open Source Projects.</h4>
-<h6>You can find more about my <strong>#100daysofOpenSource</strong> by clicking  👉🏾👉🏾👉🏾 <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a> 👈🏾👈🏾👈🏾</h6>
+<h6>You can find my journey with open source <strong>open source</strong> by clicking  👉🏾👉🏾👉🏾 <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a> 👈🏾👈🏾👈🏾</h6>
+  
+  <h6>I am currently doing Harvard University's <strong>cs50x</strong> taught by Professor David J. Malan. You can check my progress  👉🏾👉🏾👉🏾 <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">HERE</a> 👈🏾👈🏾👈🏾</h6>
 
 <!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
