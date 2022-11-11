@@ -3,7 +3,7 @@
 <h1>Hi there 👋. I am Mag :)</h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/LeGrandMAG/RESUME.svg)
+![contributor](https://img.shields.io/github/contributors/LeGrandMAG/hello.svg)
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 
