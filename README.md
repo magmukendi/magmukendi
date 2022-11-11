@@ -1,20 +1,21 @@
 ![image](https://user-images.githubusercontent.com/64711820/196639599-13e4e099-0e23-460f-b150-b5d80156c6ab.png)
 <div>
-<h1>Hi there 👋. I am Mag :)</h1>
+<h1 align="center">Hi there 👋. I am Mag :)</h1>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/LeGrandMAG/hello.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
+<p align="center" width="100%">
+  <img width="45%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
+</p>
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true)
-<h4>Frontend developer based in Seoul, South Korea. 
-<br>
-  <h6> I participated in the <a href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with<strong>open source</strong> by clicking <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">here</a></h6>
-  <h6>I finished my <a href="">100 days of code</a></h6>
-
+<h4>Frontend developer based in Seoul, South Korea. </h4>
+<ul width="50%" align="justify">
   
-  <h6>I am currently taking <a href="https://cs50.harvard.edu/x/2022/">Harvard University's cs50x</a> taught by Professor David J. Malan. You can check my progress  <a href="https://cs50.harvard.edu/x/2022/">here</a> </h6>
+  <li width="50%" align="justify"> I participated in the <a href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with<strong>open source</strong> by clicking <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>
+  <li>I finished my <a href="">100 days of code.</a></li>
+  
+  <li>I am currently taking <a href="https://cs50.harvard.edu/x/2022/">Harvard University's cs50x</a> taught by Professor David J. Malan. You can check my progress  <a href="https://cs50.harvard.edu/x/2022/">here</a>
+    You can check my resume at <a href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/Resume</a>.
+</li>
+  </ul >
 <!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
 <div align="center" style="display:flex; flex-direction:row; ">
@@ -27,7 +28,7 @@
 </div>
 
 <img height="200" align="center" src="https://activity-graph.herokuapp.com/graph?username=LeGrandMAG&theme=monokai" />  
--->
+
 
 ## Education
 - ### Hankuk University of Foreign Studies (2018 - 2022)
@@ -54,7 +55,7 @@
 
 
 ### BackEnd
-<!-- python-->
+<!-- python
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -90,9 +91,9 @@
 - Web Development with Python and Javascript
 
 --------------------------------
+-->
 
-
-  <br><br><h6 align="center">My LinkedIn: <a href="https://www.linkedin.com/in/magmukendi/"  target="_blank">@Magmukendi</a> | Email: <a href="mailto:magmukendi@gmail.com"  target="_blank">magmukendi@gmail.com</a> </h6>
+  <h6 align="center">My LinkedIn: <a href="https://www.linkedin.com/in/magmukendi/"  target="_blank">@Magmukendi</a> | Email: <a href="mailto:magmukendi@gmail.com"  target="_blank">magmukendi@gmail.com</a> </h6>
 
   </div>
   
