@@ -3,17 +3,16 @@
 <h1 align="center">Hi there 👋. I am Mag :)</h1>
 
 <p align="center" width="100%">
-  <img width="45%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
+  <img width="60%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
 </p>
 
 <h4>Frontend developer based in Seoul, South Korea. </h4>
 <ul width="50%" align="justify">
   
-  <li width="50%" align="justify"> I participated in the <a href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with<strong>open source</strong> by clicking <a href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>
-  <li>I finished my <a href="">100 days of code.</a></li>
+ <li width="50%" align="justify"> I participated in the <a target="_blank" href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with <strong>open source</strong> by clicking <a target="_blank" href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>
   
   <li>I am currently taking <a href="https://cs50.harvard.edu/x/2022/">Harvard University's cs50x</a> taught by Professor David J. Malan. You can check my progress  <a href="https://cs50.harvard.edu/x/2022/">here</a>
-    You can check my resume at <a href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/Resume</a>.
+    You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/Resume</a>.
 </li>
   </ul >
 <!--
