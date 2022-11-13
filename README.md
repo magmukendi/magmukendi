@@ -12,7 +12,7 @@
 </li>
   </ul >
   
-  <h2 align='center'> YOU CAN FIND MY RESUME <a target="_blank" href="https://github.com/LeGrandMAG/resume">HERE</a></h2>
+  <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://github.com/LeGrandMAG/resume" target="_blank">HERE</a></h2>
 <!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
 <div align="center" style="display:flex; flex-direction:row; ">
