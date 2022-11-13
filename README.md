@@ -1,10 +1,6 @@
 ![image](https://user-images.githubusercontent.com/64711820/196639599-13e4e099-0e23-460f-b150-b5d80156c6ab.png)
 <div>
-<h1 align="center">Hi there 👋. I am Mag :)</h1>
-
-<p align="center" width="100%">
-  <img width="60%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
-</p>
+<h2 align="center">Hi there 👋. I am Mag :)</h2>
 
 <h4>Frontend developer based in Seoul, South Korea. </h4>
 <ul width="50%" align="justify">
@@ -15,6 +11,8 @@
     You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/Resume</a>.
 </li>
   </ul >
+  
+  <h2 align='center'> YOU CAN FIND MY RESUME <a href="https://github.com/LeGrandMAG/RESUME">HERE</a></h2>
 <!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
 <div align="center" style="display:flex; flex-direction:row; ">
@@ -94,7 +92,9 @@
 
   <h6 align="center">My LinkedIn: <a href="https://www.linkedin.com/in/magmukendi/"  target="_blank">@Magmukendi</a> | Email: <a href="mailto:magmukendi@gmail.com"  target="_blank">magmukendi@gmail.com</a> </h6>
 
-  </div>
+<p align="center" width="100%">
+  <img width="60%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
+</p>
   
 <!--
 **LeGrandMAG/LeGrandMAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
