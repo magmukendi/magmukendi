@@ -15,9 +15,11 @@
 </li>
   </ul >
   
-  <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://magmukendi.me/#/resume/1" target="_blank">HERE</a></h2>
+ <!-- <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://magmukendi.me/#/resume/1" target="_blank">HERE</a></h2>-->
+
 <!--
   <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
+
 <div align="center" style="display:flex; flex-direction:row; ">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&count_private=true&show_icons=true&theme=radical" />
@@ -82,6 +84,9 @@
 
 ## Open Source Contributions
 - Development Quiz Project by freeCodeCamp
+
+![Open Source Contributions](https://github-contributor-stats.vercel.app/api?username=LeGrandMAG)
+
 -
 ### Certifications
 
@@ -93,7 +98,7 @@
 --------------------------------
 -->
 
-  <h6 align="center">My LinkedIn: <a href="https://www.linkedin.com/in/magmukendi/"  target="_blank">@Magmukendi</a> | Email: <a href="mailto:magmukendi@gmail.com"  target="_blank">magmukendi@gmail.com</a> </h6>
+  <h6 align="center">My LinkedIn: <a href="https://www.linkedin.com/in/magmukendi/"  target="_blank">@Magmukendi</a> | Email: <a href="mailto:magmukendi0@gmail.com"  target="_blank">magmukendi@gmail.com</a> </h6>
 
 <p align="center" width="100%">
   <img width="60%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
