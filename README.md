@@ -10,12 +10,11 @@
   <li>Currently Product Owner & Frontend developer at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
   </li>
   <li>Currently Developer Relations Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
-  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a>
+  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a></li>
     <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
-</li>
-  <li>Formerly building the Metaverse as a Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a>.
-    <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
-
+  <li>Worked on a Office Metaverse Project as a Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a></li>
+  <li>Participated in the 2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> organized by <a target="_blank" href="https://www.digitalocean.com/">Digital Ocean</a>. <!--Check out my open-source contributions <a href="https://github.com/LeGrandMAG/cs50x">here</a>--></li>
+ 
   </ul >
   
  <!-- <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://magmukendi.me/#/resume/1" target="_blank">HERE</a></h2>-->
