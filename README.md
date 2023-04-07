@@ -10,7 +10,7 @@
   <li>Currently Product Owner & Frontend developer at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
   </li>
   <li>Currently Developer Relations Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
-  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a> taught by Professor David J. Malan. Check out my progress here <a href="https://github.com/LeGrandMAG/cs50x">here</a>
+  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a>
     <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
 </li>
   <li>Formerly building the Metaverse as a Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a>.
