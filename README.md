@@ -2,17 +2,20 @@
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
-<h4>Frontend developer based in Seoul, South Korea. </h4>
+<h4>Software Developer based in Seoul, South Korea.</h4>
 <ul width="50%" align="justify">
   
  <!--<li width="50%" align="justify"> I participated in the <a target="_blank" href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with <strong>open source</strong> by clicking <a target="_blank" href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>-->
   
-  <li>I am on week 5 of <a href="https://cs50.harvard.edu/x/2022/">Harvard University's cs50x</a> taught by Professor David J. Malan. You can check my progress  <a href="https://cs50.harvard.edu/x/2022/">here</a>
+  <li>Currently Product Owner & Frontend developer at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
+  </li>
+  <li>Currently Developer Relations Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
+  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a> taught by Professor David J. Malan. Check out my progress here <a href="https://github.com/LeGrandMAG/cs50x">here</a>
     <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
 </li>
-  <li>I am currently building the Metaverse for <a href="https://www.schaeffler.com/en/">Schaeffler</a>'s Seoul Office using Zepeto template on Unity.
+  <li>Formerly building the Metaverse as a Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a>.
     <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
-</li>
+
   </ul >
   
  <!-- <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://magmukendi.me/#/resume/1" target="_blank">HERE</a></h2>-->
