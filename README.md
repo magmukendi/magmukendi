@@ -7,13 +7,13 @@
   
  <!--<li width="50%" align="justify"> I participated in the <a target="_blank" href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with <strong>open source</strong> by clicking <a target="_blank" href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>-->
   
-  <li>Currently Product Owner & Frontend developer at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
+  <li>Product Owner & Frontend Dev at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
   </li>
-  <li>Currently Tech Evangelist Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
-  <li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a></li>
-    <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>.-->
-  <li>Worked on a Office Metaverse Project as a Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a></li>
-  <li>Participated in the 2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> organized by <a target="_blank" href="https://www.digitalocean.com/">Digital Ocean</a>. <!--Check out my open-source contributions <a href="https://github.com/LeGrandMAG/cs50x">here</a>--></li>
+  <li>Tech Evangelist Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
+  <!--<li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a></li>
+    <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>-->
+  <li>Ex-Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
+  <li><a target="_blank" href="https://hacktoberfest.com/">2022 Hacktobertfest</a> Contributor. Organized by <a target="_blank" href="https://www.digitalocean.com/">Digital Ocean</a>. <!--Check out my open-source contributions <a href="https://github.com/LeGrandMAG/cs50x">here</a>--></li>
  
   </ul >
   
