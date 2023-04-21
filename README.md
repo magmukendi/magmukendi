@@ -5,15 +5,11 @@
 <h4>Tech Evangelist based in Seoul, South Korea.</h4>
 <ul width="50%" align="justify">
   
- <!--<li width="50%" align="justify"> I participated in the <a target="_blank" href="https://hacktoberfest.com/">Hacktoberfest</a>, a month-long celebration run by DigitalOcean to celebrate and give back to open source projects and softwareI submitted about 6 PRs. You can find my journey with <strong>open source</strong> by clicking <a target="_blank" href="https://github.com/LeGrandMAG/my100daysofOpenSource">here.</a></h6>-->
-  
   <li>Product Owner & Frontend Dev at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
   </li>
-  <li>Tech Evangelist Intern at <a href="https://naverz-corp.com/en/">Naver Z</a></li>
-  <!--<li>Currently on week 5 of <a href="https://cs50.harvard.edu/x/2023/">Harvard University's cs50x</a>. Check out my progress <a href="https://github.com/LeGrandMAG/cs50x">here</a></li>
-    <!-- You can check my resume at <a target="_blank"href="https://github.com/LeGrandMAG/Resume">github.com/LeGrandMAG/resume</a>-->
-  <li>Ex-Software Developer Intern at <a href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
-  <li><a target="_blank" href="https://hacktoberfest.com/">2022 Hacktobertfest</a> Contributor. Organized by <a target="_blank" href="https://www.digitalocean.com/">Digital Ocean</a>. <!--Check out my open-source contributions <a href="https://github.com/LeGrandMAG/cs50x">here</a>--></li>
+  <li>Tech Evangelist Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z</a></li>
+  <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
+  <li>2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> Contributor</li>
  
   </ul >
   
@@ -105,19 +101,3 @@
 <!--<p align="center" width="100%">
   <img width="60%"  alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&show_icons=true"></img>
 </p>-->
-  
-<!--
-**LeGrandMAG/LeGrandMAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://dev.to/github/10-standout-github-profile-readmes-h2o
-Here are some ideas to get you started:
-| My Twitter: <a href="https://twitter.com/" target="_blank">@MAGMukendi</a>
-[![@Mag's Holopin board](https://holopin.io/api/user/board?user=legrandmag)](https://holopin.io/@legrandmag)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-t...
--->
