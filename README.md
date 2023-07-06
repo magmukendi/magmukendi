@@ -7,7 +7,7 @@
   
   <li>Product Owner & Frontend Dev at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
   </li>
-  <li>Tech Evangelist Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z</a></li>
+  <li>Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z</a></li>
   <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
   <li>2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> Contributor</li>
  
