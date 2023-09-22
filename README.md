@@ -2,7 +2,7 @@
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
-<h4>Tech Evangelist based in Seoul, South Korea.</h4>
+<h5>📍 Seoul, South Korea</h5>
 <ul width="50%" align="justify">
   
   <li>Product Owner & Frontend Dev at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
