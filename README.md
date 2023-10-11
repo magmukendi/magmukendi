@@ -5,9 +5,9 @@
 <h5>📍 Seoul, South Korea</h5>
 <ul width="50%" align="justify">
   
-  <li>Product Owner & Frontend Dev at <a target ="_blank" href="https://wepo.tech">WEPO RDC</a></li>
+  <li>Frontend dev at <a target ="_blank" href="https://wepo.tech">WEPO</a></li>
   </li>
-  <li>Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z</a></li>
+  <li>Ex-Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z (ZEPETO)</a></li>
   <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
   <li>2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> Contributor</li>
  
