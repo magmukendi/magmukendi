@@ -2,7 +2,7 @@
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
-<h5>📍 Seoul, South Korea</h5>
+<h5>📍 Open for Remote</h5>
 <ul width="50%" align="justify">
   
   <li>Frontend dev at <a target ="_blank" href="https://wepo.tech">WEPO</a></li>
