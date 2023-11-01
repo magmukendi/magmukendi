@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/64711820/196639599-13e4e099-0e23-460f-b150-b5d80156c6ab.png)
+![background](https://github.com/magmukendi/magmukendi/assets/64711820/11d13c0e-c5ef-4840-b17c-8f378b53f0c9)
+
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
