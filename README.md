@@ -5,7 +5,7 @@
 
 <h5>📍Montreal, Canada. Open for remote opportunities.</h5>
 <ul width="50%" align="justify">
-  <li>Building  <a target ="_blank" href="https://243studio.me">243 Studio</a></li>
+  <li>Building  <a href="https://243studio.me" target="_blank">243 Studio</a></li>
   <!--<li>Contributor of <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a> <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a></li> -->
   <li>Ex-Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z (ZEPETO)</a></li>
   <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
