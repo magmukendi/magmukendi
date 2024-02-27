@@ -3,15 +3,14 @@
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
-<h5>📍 Open for Remote</h5>
+<h5>📍Montreal, Canada. Open for remote opportunities.</h5>
 <ul width="50%" align="justify">
-  
-  <li>Frontend dev at <a target ="_blank" href="https://wepo.tech">WEPO</a></li>
-  </li>
+  <li>Building  <a target ="_blank" href="https://243studio.me">243 Studio</a></li>
+  <!--<li>Contributor of <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a> <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a></li> -->
   <li>Ex-Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z (ZEPETO)</a></li>
   <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
   <li>2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> Contributor</li>
- 
+
   </ul >
   
  <!-- <h2 align='center'> YOU CAN FIND MY RESUME <a  href="https://magmukendi.me/#/resume/1" target="_blank">HERE</a></h2>-->
