@@ -1,12 +1,14 @@
 ![background](https://github.com/magmukendi/magmukendi/assets/64711820/11d13c0e-c5ef-4840-b17c-8f378b53f0c9)
 
 <div>
-<h2 align="center">Hi there 👋. I am Mag :)</h2>
+<h2 align="center">ha p 2 c u here</h2>
 
-<h5>📍Montreal, Canada. Open for remote opportunities.</h5>
-<ul width="50%" align="justify">
-  <li>Building  <a href="https://243studio.me" target="_blank">243 Studio</a></li>
-  <!--<li>Contributor of <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a> <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a></li> -->
+<h5>📍montreal </h5>
+<ul  width="50%" align="justify">
+  <li>building  <a href="https://poto.243studio.me" target="_blank">Pesa Poto Chance AI</a></li>
+  <br><br><br><br>
+<!--
+  <!--<li>Contributor of <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a> <a target ="_blank" href="https://github.com/JasperGame/zepeto-modules">Zepeto Module Importer</a></li>
   <li>Ex-Softwae Engineer Intern at <a target="_blank" href="https://naverz-corp.com/en/">Naver Z (ZEPETO)</a></li>
   <li>Ex-Software Developer Intern at <a target="_blank" href="https://www.schaeffler.com/en/">Schaeffler</a></li> 
   <li>2022 <a target="_blank" href="https://hacktoberfest.com/">Hacktobertfest</a> Contributor</li>
